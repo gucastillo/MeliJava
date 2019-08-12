@@ -59,6 +59,10 @@ public class EnvioPostalTest {
 
         //Nuevas Pruebas
 
+        Assertions.assertThat(envioGenerado.getCosto()).isGreaterThan(0);
+
+        Assertions.assertThat(envioGenerado.getCosto()).isGreaterThan(0);
+
     }
 
     public class paqueteMock extends Paquete {
