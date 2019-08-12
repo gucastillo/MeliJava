@@ -53,6 +53,11 @@ public class EnvioPostalTest {
 
         Assertions.assertThat(envioGenerado.getCosto()).isGreaterThan(0);
 
+        Assertions.assertThat(envioGenerado.getCosto()).isGreaterThan(0);
+
+        Assertions.assertThat(envioGenerado.getCosto()).isGreaterThan(0);
+
+        //Nuevas Pruebas
 
     }
 
