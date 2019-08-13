@@ -51,7 +51,7 @@ public class EnvioPostalTest {
 
         Assertions.assertThat(envioGenerado.getTransporte()).isNotNull();
 
-        Assertions.assertThat(envioGenerado.getCosto()).isGreaterThan(0);
+        Assertions.assertThat(envioGenerado.getCosto()).isGreaterThan(1000);
 
         Assertions.assertThat(envioGenerado.getCosto()).isGreaterThan(0);
 

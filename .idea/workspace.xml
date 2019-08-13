@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e0669712-5931-4cce-b3c9-e561e710f557" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/envio/postales/EnvioPostalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/envio/postales/EnvioPostalTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +32,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.All in meli-base">
+  <component name="RunManager" selected="JUnit.EnvioPostalTest.generarUnEnvioCorrectamente">
     <configuration name="All in meli-base" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="meli-base" />
       <option name="PACKAGE_NAME" value="" />
@@ -60,8 +59,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.All in meli-base" />
         <item itemvalue="JUnit.EnvioPostalTest.generarUnEnvioCorrectamente" />
+        <item itemvalue="JUnit.All in meli-base" />
       </list>
     </recent_temporary>
   </component>
