@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ar.com.mercadolibre.javaoop.CerraduraTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-08-12T20:05:50" hostname="AR0FVFYM1EHHV2J" time="0.003">
+  <properties/>
+  <testcase name="crearCerraduraConClaveyGuarde" classname="ar.com.mercadolibre.javaoop.CerraduraTest" time="0.001"/>
+  <testcase name="unaCerraduraSeCreaCerrada" classname="ar.com.mercadolibre.javaoop.CerraduraTest" time="0.001"/>
+  <testcase name="crearCerradura" classname="ar.com.mercadolibre.javaoop.CerraduraTest" time="0.0"/>
+  <testcase name="abrirCerradura" classname="ar.com.mercadolibre.javaoop.CerraduraTest" time="0.0"/>
+  <testcase name="crearCerraduraConClave" classname="ar.com.mercadolibre.javaoop.CerraduraTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

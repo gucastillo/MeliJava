@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e0669712-5931-4cce-b3c9-e561e710f557" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/envio/postales/EnvioPostalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/envio/postales/EnvioPostalTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/envio/postales/EnvioPostalTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/envio/postales/EnvioPostalTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,8 +16,10 @@
   </component>
   <component name="ProjectId" id="1PKmo7EpNBXrFrnIt0eQTcmPf1w" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -30,6 +32,29 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="EnvioPostalTest.generarUnEnvioCorrectamente" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="meli-base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="envio.postales.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="envio.postales" />
+      <option name="MAIN_CLASS_NAME" value="envio.postales.EnvioPostalTest" />
+      <option name="METHOD_NAME" value="generarUnEnvioCorrectamente" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.EnvioPostalTest.generarUnEnvioCorrectamente" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -49,7 +74,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
